@@ -1,0 +1,1 @@
+var li = ul.getElementsByTagName('li')[1];

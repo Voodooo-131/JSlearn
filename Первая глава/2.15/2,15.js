@@ -1,0 +1,1 @@
+for (var i = 2; i < 11; ++i) alert( i );

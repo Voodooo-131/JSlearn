@@ -1,0 +1,4 @@
+if (!elem.firstChild) 
+	{
+		alert("!!!!!");
+	}
